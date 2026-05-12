@@ -1,0 +1,121 @@
+{
+  "disciplineOS_tasks": [
+    {
+      "id": "b23gzpn5mp2fykq1",
+      "title": "nigga hwat",
+      "deadline": "2026-05-13",
+      "estimatedMinutes": 30,
+      "priority": "high",
+      "status": "pending",
+      "createdAt": "2026-05-12T09:41:48.265Z",
+      "updatedAt": "2026-05-12T09:41:48.265Z",
+      "timesRescheduled": 0,
+      "completedMinutes": 0
+    }
+  ],
+  "disciplineOS_sessions": [
+    {
+      "id": "1nxu13g8mp290pdx",
+      "taskId": "2fwc011smp28zchp",
+      "taskTitle": "Manual focus",
+      "minutes": 30,
+      "date": "2026-05-12",
+      "source": "manual",
+      "completedAt": "2026-05-12T06:27:30.309Z"
+    },
+    {
+      "id": "291sqg91mp28zqqr",
+      "taskId": "2fwc011smp28zchp",
+      "taskTitle": "learn ML today",
+      "minutes": 45,
+      "date": "2026-05-12",
+      "source": "manual",
+      "completedAt": "2026-05-12T06:26:45.411Z"
+    }
+  ],
+  "disciplineOS_transactions": [
+    {
+      "id": "lcee31v3mp0zttv8",
+      "type": "expense",
+      "amount": 360,
+      "category": "Entertainment",
+      "note": "",
+      "needOrWant": "want",
+      "date": "2026-05-11",
+      "createdAt": "2026-05-11T09:22:26.804Z"
+    },
+    {
+      "id": "nrcrfyijmp0zswsq",
+      "type": "income",
+      "amount": 400,
+      "category": "Gift",
+      "note": "",
+      "needOrWant": null,
+      "date": "2026-05-11",
+      "createdAt": "2026-05-11T09:21:43.946Z"
+    }
+  ],
+  "disciplineOS_reviews": [
+    {
+      "id": "ii1woxjmmp0z7s8l",
+      "date": "2026-05-11",
+      "finished": "",
+      "distractions": "",
+      "gamingHours": "",
+      "improvement": "",
+      "gamingLog": [
+        {
+          "id": "vmy5182pmp0z7s8l",
+          "text": "mlbb",
+          "minutes": 50,
+          "time": "02:35 PM"
+        },
+        {
+          "id": "9968om2cmp0z8jz4",
+          "text": "cod",
+          "minutes": 10,
+          "time": "02:35 PM"
+        }
+      ]
+    },
+    {
+      "id": "49w8d7nrmowqkqs0",
+      "date": "2026-05-08",
+      "finished": "",
+      "distractions": "",
+      "gamingHours": "2.5",
+      "improvement": "",
+      "gamingLog": [
+        {
+          "id": "w7lrv44jmowqkqrz",
+          "text": "20 min mlbb",
+          "time": "03:22 PM"
+        },
+        {
+          "id": "1vt0jbxtmowqtxvs",
+          "text": "20",
+          "time": "03:29 PM"
+        }
+      ]
+    }
+  ],
+  "disciplineOS_missions": {
+    "date": "2026-05-08",
+    "missions": {
+      "main": {
+        "taskId": "b70enwmhmowio3my",
+        "done": true
+      },
+      "secondary": {
+        "taskId": "",
+        "done": false
+      },
+      "smallWin": {
+        "taskId": "a8iabk8jmowqimeb",
+        "done": true
+      }
+    }
+  },
+  "disciplineOS_shutdown": [],
+  "disciplineOS_settings": null
+}
